@@ -1,0 +1,7 @@
+Python 3.x
+
+pandas para manipulación de datos
+
+scikit-learn para el modelo de árbol de decisión
+
+matplotlib para los gráficos
